@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">laba 2</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_l">Login</string>
+    <string name="name_n">Name</string>
+    <string name="password_p">Password</string>
+    <string name="Theme">Тема</string>
+    <string name="Black">Тёмная</string>
+    <string name="White">Светлая</string>
+    <string name="Text">Тема</string>
+    <string name="Svet">Светлая</string>
+    <string name="Temn">Тёмная</string>
+    <string name="Them">Внешний вид</string>
+</resources>
